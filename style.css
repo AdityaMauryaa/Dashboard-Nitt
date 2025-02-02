@@ -1,0 +1,22 @@
+body,html{
+    height: 100vmin;
+}
+#dashboard{
+    display: flex;
+justify-content: center;
+}
+
+#image{
+    height: 100vh;
+    position: absolute;
+}
+#pp{
+    
+    border: 2px solid transparent;
+    border-radius: 6px;
+    position: absolute;
+    top: 30%;
+    height: 26%;
+    width: 20vmax;
+    
+}

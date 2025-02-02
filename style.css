@@ -4,6 +4,7 @@ body,html{
 #dashboard{
     display: flex;
 justify-content: center;
+
 }
 
 #image{
@@ -15,8 +16,9 @@ justify-content: center;
     border: 2px solid transparent;
     border-radius: 6px;
     position: absolute;
-    top: 30%;
     height: 26%;
+    bottom: 42%;
+    height: 27vmax;
     width: 20vmax;
     
 }
